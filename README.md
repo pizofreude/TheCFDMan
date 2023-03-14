@@ -8,6 +8,10 @@ The repository includes scripts and configuration files for different types of s
 
 Resources for theory and underlining governing equations involved in typical CFD analyses.
 
+### FluidMechanics_Formulary
+
+Collection of Fluid Mechanics/Dynamics Formulary from various sources.
+
 ### Literature
 
 Lecture notes from various Fluid Dynamics and CFD Professors and third party sources.
