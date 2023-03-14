@@ -10,6 +10,8 @@ Resources for theory and underlining governing equations involved in typical CFD
 
 ### Literature
 
+Lecture notes from various Fluid Dynamics and CFD Professors and third party sources.
+
 ## Bibliography Suggestions: Theory and Applications
 
 Here are some bibliography recommendations for Fluid Dynamics and CFD, organized by beginner, intermediate, and expert levels:
@@ -39,11 +41,16 @@ Here are some bibliography recommendations for Fluid Dynamics and CFD, organized
 - [DE] Müller, U., & Stark, R. (2017). Numerische Strömungsmechanik: Grundlagen, Statik, Dynamik und Thermodynamik. Springer-Verlag Berlin Heidelberg.
 - [DE] Oertel, H. (2013). Berechnung und Simulation von Strömungen. Springer-Verlag Berlin Heidelberg.
 - [DE] Peters, N. (2000). Turbulente Strömungen. Springer-Verlag Berlin Heidelberg.
-- [EN]
-- [EN]
-- [EN]
+- [EN] LeVeque, R.J. (1992). Numerical Methods for Conservation Laws. Birkhäuser Verlag.
+- [EN] Chorin, A.J. (1990). Vortex Sheet Approximation of Boundary Layers. Journal of Computational Physics, 91(2), 386-397.
 
 ## CFD Online Resources
+
+- [CFD: Wolfdynamics](http://www.wolfdynamics.com/tutorials.html?layout=edit&id=181)
+- [OpenFOAM Tutorials](https://www.youtube.com/channel/UCHXaKLlZRQxkSG6dD6ZWvSg)
+- [OpenFOAM Tutorials Docs](https://github.com/openfoamtutorials/OpenFOAM_Tutorials_)
+- [Take Your CFD Learning to the Next Level](https://www.youtube.com/playlist?list=PLQMtm0_chcLyEB1EJLUoouugMYZNQUslG)
+- [Ansys Student Team Mechanical Tutorials](https://www.youtube.com/playlist?list=PLQMtm0_chcLwKt2NPwtUfbrP2s72hE47j)
 
 ## Software Applications
 
