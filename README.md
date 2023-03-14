@@ -85,3 +85,7 @@ Keep in mind that this table only provides a brief overview of the different CFD
 ## Contributing
 
 Contributions to this repository are welcome, and we encourage users to share their own examples, tips, and tricks for performing CFD simulations. We hope that this repository will be a useful resource for the CFD community and help advance the state of the art in fluid mechanics simulations.
+
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE file](https://github.com/pizofreude/TheCFDMan/blob/main/LICENSE) for more information.
