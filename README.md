@@ -23,20 +23,20 @@ Resources for theory and underlining governing equations involved in typical CFD
 
 ## Software Applications
 
-
 | Software | Commercial/Open Source | Free to use? | Degree of Freedom/Limitation | Node Limit | Physics | Interface |
 | --- | --- | --- | --- | --- | --- | --- |
 | ANSYS Fluent | Commercial | No | Unlimited | Unlimited | General CFD | GUI |
 | ANSYS CFX | Commercial | No | Unlimited | Unlimited | General CFD | GUI |
 | OpenFOAM | Open Source | Yes | Unlimited | Unlimited | General CFD | CLI |
 | SU2 | Open Source | Yes | Unlimited | Unlimited | General CFD | CLI |
+| PyFR | Open Source | Yes | Unlimited | Unlimited | General CFD | CLI |
+| StarCCM+ | Commercial | Yes (with restrictions) | Up to 5 million cells | Up to 8 cores | General CFD | GUI |
 | Gmsh | Open Source | Yes | Unlimited | Unlimited | Meshing | GUI/CLI |
 | FEniCS | Open Source | Yes | Unlimited | Unlimited | General FEA | CLI |
 | COMSOL Multiphysics | Commercial | Yes (with restrictions) | Up to 1,300 DOF | Up to 16 cores | General FEA/CFD | GUI |
 | Autodesk CFD | Commercial | Yes (with restrictions) | Up to 2,500 nodes | Up to 16 cores | General CFD | GUI |
 | SimScale | Commercial/Open Source | Yes (with restrictions) | Up to 32,000 core hours per year | Up to 32 cores | General CFD | GUI |
 | NUMECA | Commercial | Yes (with restrictions) | Up to 10,000 cells | Unlimited | General CFD | GUI |
-
 
 **Note:**
 
