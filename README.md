@@ -4,6 +4,8 @@ This repository contains lecture notes, literature recommendations,  tutorials, 
 
 The repository includes scripts and configuration files for different types of simulations, such as laminar and turbulent flows, heat transfer, and multiphase flows. Additionally, it includes documentation on the theory and numerical methods used in CFD, as well as tutorials for beginners to get started with the software tools.
 
+Indeed CFD has many meanings, but for us it stands for Computational Fluid Dynamics. However, some people like to joke that it means Colors For Directors, because of the vivid graphics that CFD simulations produce. Other humorous acronyms for CFD include Chocolate Fluid Dynamics, Cleverly Forged Data, Cents For Dollars, Colorful Fluid Dynamics, and more. But enough about jokes. Let’s get serious about colors and how they can help us understand fluid flows better.
+
 ## Under Docs
 
 Resources for theory and underlining governing equations involved in typical CFD analyses.
