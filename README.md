@@ -88,4 +88,4 @@ Contributions to this repository are welcome, and we encourage users to share th
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE file](https://github.com/pizofreude/TheCFDMan/blob/main/LICENSE) for more information.
+This repository is licensed under the MIT License. See the [LICENSE file](LICENSE) for more information.
