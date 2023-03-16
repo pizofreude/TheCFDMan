@@ -55,6 +55,7 @@ Here are some bibliography recommendations for Fluid Dynamics and CFD, organized
 - [OpenFOAM Tutorials Docs](https://github.com/openfoamtutorials/OpenFOAM_Tutorials_)
 - [Take Your CFD Learning to the Next Level](https://www.youtube.com/playlist?list=PLQMtm0_chcLyEB1EJLUoouugMYZNQUslG)
 - [Ansys Student Team Mechanical Tutorials](https://www.youtube.com/playlist?list=PLQMtm0_chcLwKt2NPwtUfbrP2s72hE47j)
+- [Bakker.org - CFD](https://www.bakker.org/index.htm)
 
 ## Software Applications
 
